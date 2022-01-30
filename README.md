@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PulkitMahour
-- 👀 I’m interested in so many things
+- 👀 I’m interested in so many things like playing video games and watching movies etc
 - 🌱 I’m currently learning python
 
 <!---
