@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @PulkitMahour
-- 👀 I’m interested in so many things like playing video games and watching movies etc
-- 🌱 I’m currently learning python
+- 👀 I’m interested in working and exploring technologies.
+- First I learned python and use its various libraries like tkinter, http server, etc.
+- Then Html, CSS, Javascript, Django and its rest framework, celery and Software testing.
+- Now I am working on React js library
 
 <!---
 PulkitMahour/PulkitMahour is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
